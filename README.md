@@ -1,6 +1,6 @@
 ![Hey, I'm Carlos 👋](https://raw.githubusercontent.com/toxtli/toxtli/main/gitvid.gif)
 
-### Hi there 👋
+### I will introduce myself by code:
 
 ```python
 #!/usr/bin/python
