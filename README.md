@@ -12,7 +12,7 @@ class CarlosToxtli:
         self.languages = ["en_US", "es_MX"]
 
     def say_hi(self):
-        print("I'm glad you read my intro! I thought no one would. Please also stop by my 90's website carlostoxtli.com")
+        print("I'm glad you read my intro! I thought no one would. Please also stop by my 90s website carlostoxtli.com")
 
 
 me = CarlosToxtli()
