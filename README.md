@@ -1,4 +1,4 @@
-![Hey, I'm Carlos 👋](https://github.com/toxtli/toxtli/raw/main/assets/gitvid.gif)
+![Hey, I'm Carlos 👋](https://raw.githubusercontent.com/toxtli/toxtli/main/gitvid.gif)
 
 ### Hi there 👋
 
