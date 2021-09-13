@@ -7,13 +7,13 @@
 class CarlosToxtli:
 
     def __init__(self):
-        self.name = "Carlos Toxtli-Hernandez"
+        self.name = "Carlos Toxtli"
         self.researcher = True
         self.developer = True
         self.languages = ["en_US", "es_MX"]
 
     def say_hi(self):
-        print("I'm glad you read my intro! I thought no one would. Please also stop by my 90's website <a href='http://carlostoxtli.com'>carlostoxtli.com</a>")
+        print("I'm glad you read my intro! I thought no one would. Please also stop by my 90's website carlostoxtli.com")
 
 
 me = CarlosToxtli()
