@@ -1,3 +1,5 @@
+![Hey, I'm Carlos 👋](https://github.com/toxtli/toxtli/raw/main/assets/gitvid.gif)
+
 ### Hi there 👋
 
 ```python
